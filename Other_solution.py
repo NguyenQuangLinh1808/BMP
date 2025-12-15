@@ -1,4 +1,4 @@
-#Use L(u, i) <= i + 1 to check exactly one label for each vertex
+#Use L(u, i) <= i + 1 to check exactly one vertex for each label
 #Not use, run slow
 import collections
 
